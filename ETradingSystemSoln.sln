@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ETradingWebAPI", "ETradingWebAPI\ETradingWebAPI.csproj", "{0C2EFDB3-0670-4697-86B3-2893BA3179A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ETradingMVC_WebUI", "ETradingMVC_WebUI\ETradingMVC_WebUI.csproj", "{F31357CD-05BD-4B9F-8864-F8BF709110CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C2EFDB3-0670-4697-86B3-2893BA3179A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C2EFDB3-0670-4697-86B3-2893BA3179A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C2EFDB3-0670-4697-86B3-2893BA3179A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C2EFDB3-0670-4697-86B3-2893BA3179A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F31357CD-05BD-4B9F-8864-F8BF709110CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F31357CD-05BD-4B9F-8864-F8BF709110CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F31357CD-05BD-4B9F-8864-F8BF709110CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F31357CD-05BD-4B9F-8864-F8BF709110CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AC3DFAB0-734D-446B-A1E4-F22093F82359}
+	EndGlobalSection
+EndGlobal
